@@ -1,0 +1,9 @@
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\bin\Release\kisaYol.exe.config
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\bin\Release\kisaYol.exe
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\bin\Release\kisaYol.pdb
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.Form1.resources
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.Properties.Resources.resources
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.csproj.GenerateResource.Cache
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.exe
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.pdb
+C:\Users\baba\documents\visual studio 2013\Projects\kisaYol\kisaYol\obj\Release\kisaYol.csprojResolveAssemblyReference.cache
