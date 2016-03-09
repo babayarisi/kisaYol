@@ -6,3 +6,5 @@
 
 <h2>Ekran Görüntüsü</h2>
 <img src="http://i.hizliresim.com/rMMzmV.png">
+
+<img src="http://i.hizliresim.com/ljj5kp.png">
